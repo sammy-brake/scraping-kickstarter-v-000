@@ -1,0 +1,33 @@
+=> [1;34m#(Document:0x1503218 {[0m
+  name = [31m[1;31m"[0m[31mdocument[1;31m"[0m[31m[0m,
+  children = [
+    [1;34m#(DTD:0x14c2d6c {[0m name = [31m[1;31m"[0m[31mhtml[1;31m"[0m[31m[0m }),
+    [1;34m#(Element:0x15030c4 {[0m
+      name = [31m[1;31m"[0m[31mhtml[1;31m"[0m[31m[0m,
+      attributes = [
+        [1;34m#(Attr:0x14b75c0 {[0m
+          name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+          value = [31m[1;31m"[0m[31mdiscover_advanced  fontface no-js[1;31m"[0m[31m[0m
+          }),
+        [1;34m#(Attr:0x14b75ac {[0m name = [31m[1;31m"[0m[31mlang[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31men[1;31m"[0m[31m[0m })],
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x149d51c {[0m
+          name = [31m[1;31m"[0m[31mhead[1;31m"[0m[31m[0m,
+          attributes = [
+            [1;34m#(Attr:0x149cb80 {[0m
+              name = [31m[1;31m"[0m[31mprefix[1;31m"[0m[31m[0m,
+              value = [31m[1;31m"[0m[31mog: http://ogp.me/ns# fb: http://ogp.me/ns/fb# kickstarter: http://ogp.me/ns/fb/kickstarter#[1;31m"[0m[31m[0m
+              })],
+          children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Element:0x1488ea0 {[0m
+          name = [31m[1;31m"[0m[31mbody[1;31m"[0m[31m[0m,
+          children = [
+            [1;34m#(Element:0x14872f8 {[0m
+              name = [31m[1;31m"[0m[31mh1[1;31m"[0m[31m[0m,
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mHELLO!![1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Comment [0m[31m[1;31m"[0m[31m[if lt IE 9]>[1;35m\n[0m[31m  <script src=[1;35m\"[0m[31m//html5shim.googlecode.com/svn/trunk/html5.js[1;35m\"[0m[31m type=[1;35m\"[0m[31mtext/javascript[1;35m\"[0m[31m></script>[1;35m\n[0m[31m<![endif][1;31m"[0m[31m[0m),
+            [1;34m#(Text [0m
